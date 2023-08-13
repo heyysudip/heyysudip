@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevsudip&label=Profile%20views&color=0e75b6&style=flat" alt="webdevsudip" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdevsudip" alt="webdevsudip" /></a> </p>
-
 - 🔭 I’m currently practicing **Front-End Development**
 
 - 🌱 I’m currently learning **Advanced JavaScript**
