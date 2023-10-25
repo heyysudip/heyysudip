@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on full-stack projects<br>👯 I'm looking to collaborate on full-stack projects<br>🤝🏻 I'm looking for help with ORMs<br>🌱 I'm currently learning NextJS<br>🤔 Ask me about ReactJS & JavaScript<br>⚡ Fun fact I do code
+🔭 I'm currently working on full-stack projects<br>👯 I'm looking to collaborate on full-stack projects<br>🤝🏻 I'm looking for help with ORMs<br>🌱 I'm currently learning NextJS<br>🤔 Ask me about ReactJS & JavaScript<br>⚡ Fun fact I have a Laptop💻
 
 
 ## 🌐 Socials:
