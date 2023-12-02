@@ -40,4 +40,6 @@ src="https://img.shields.io/github/followers/webdevsudip?logo=github&style=for-t
 
 <b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/webdevsudip/mern-social-media" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=webdevsudip&repo=mern-social-media&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
 <div width="100%" align="center"><a href="https://github.com/webdevsudip/newshub" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=webdevsudip&repo=newshub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
