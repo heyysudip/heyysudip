@@ -1,27 +1,29 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sudip Biswas
-====================================================================================================================================
+### Hey, I'm Sudip 👋🏽
 
-Web Developer
--------------
+I'm a 19-year-old developer based in India, and I'm passionate about crafting digital experiences.
 
-Passionate, skillful, and oh-so-creative web developer here. From crafting modern aesthetics to creating robust functionalities using modern and scalable technologies. Looking for opportunities.
+- Check out my [website](https://www.sudipbiswas.me/) to learn more about me.
+- Explore my [blog](https://sudipbiswas.me/blogs/) where I share insights and learnings (Coming soon).
+- Stay updated with my journey on [Twitter](https://www.x.com/SudipB7_/) and [LinkedIn](https://www.linkedin.com/in/sudipb7/)
 
-* I'm based in Maharashtra, India
-* You can contact me at sudipbiswas2142@gmail.com
-* I'm learning MERN Stack
-* I have a portfolio here 👉🏻 [sudipbiswas.me](https://www.sudipbiswas.me)
-* I'm open to collaborating on Full Stack Projects
+## 📦 Toolbox
 
-### Skills
+**Frontend Development:** `React`, `Next.js`, `TypeScript`, `Tailwind`, `Shadcn-UI`, `Framer-Motion`
 
-* **Frontend** - I create smooth and good looking UI using NextJS, ReactJS & TailwindCSS
-* **Backend** - I can create robust backend functionalities using NodeJS and ExpressJS
-* **Storage** - I'm good working with MongoDB
+**Version Control:** `Git`, `GitHub`
 
-### Socials
+**Backend Development:** `Node.js`, `Express.js`, `Firebase`
 
-* You can connect with me on **[Twitter](https://twitter.com/SudipB7_)** and **[LinkedIn](https://linkedin.com/in/sudipb7)** as well
+**Database:** `Firebase`, `MongoDB`
 
-### My GitHub Stats
+**Others:** `Prisma`, `Zustand`, `Redux-Toolkit`, `Tanstack-Query`
 
-<a href="http://www.github.com/sudipb7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sudipb7&hide_border=true" /></a>
+## ✨ Fun Facts
+
+- Attack on Titan is my favorite anime.
+- I love using Monokai pro theme on VS Code.
+- Always ready to play Cricket.
+
+## 📫 Contact
+
+For a quick response, DM me on [Twitter](https://www.x.com/sudipb7_/) or [LinkedIn](https://www.linkedin.com/in/sudipb7/)
