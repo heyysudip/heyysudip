@@ -1,22 +1,17 @@
-### Hey, I'm Sudip 👋🏽
+# Hey, I'm Sudip 👋🏻
 
-I'm a 19-year-old developer based in India, and I'm passionate about crafting digital experiences. 
+## Who am I? 😄
 
-- Check out my [website](https://www.sudipbiswas.me/) to learn more about me.
-- Stay updated with my journey on [Twitter](https://www.x.com/SudipB7_/) and [LinkedIn](https://www.linkedin.com/in/sudipb7/)
+I'm a developer based in India, who is passionate about crafting beautiful and smooth experiences as well as robust functionalities for users across the globe. 
 
-## 📦 Toolbox
+## What I do 😼
 
-**Frontend Development:** `React`, `Next.js`, `TypeScript`, `Tailwind`, `Shadcn-UI`
+- Transform your imagination into reality using cutting-edge frontend technologies. 
 
-**Version Control:** `Git`, `GitHub`
+- Craft powerful, scalable, and secure server-side functionalities harnessing the latest technologies available in the market.
 
-**Backend Development:** `Node.js`, `Express.js`, `Supabase`
+- Elevate your site's visibility on the internet by deploying it on platforms like Vercel or AWS, and establish its identity with your own custom domain.
 
-**Database:** `MongoDB`
+## Contact ✉️
 
-**Others:** `Prisma`, `Zustand`, `Redux-Toolkit`, `Tanstack-Query`
-
-## 📫 Contact
-
-For a quick response, DM me on [Twitter](https://www.x.com/sudipb7_/), [LinkedIn](https://www.linkedin.com/in/sudipb7/) or [Instagram](https://www.instagram.com/sudipb7_/)
+For any queries -[sudipbiswas2142@gmail.com](mailto:sudipbiswas2142) 
