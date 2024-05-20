@@ -14,4 +14,4 @@ I'm a developer based in India, who is passionate about crafting beautiful and s
 
 ## Contact ✉️
 
-For any queries -[sudipbiswas2142@gmail.com](mailto:sudipbiswas2142) 
+For any queries - [sudipbiswas2142@gmail.com](mailto:sudipbiswas2142) 
