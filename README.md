@@ -6,11 +6,11 @@ I'm a developer based in India, who is passionate about crafting beautiful and s
 
 ## What I do 😼
 
-- Transform your imagination into reality using cutting-edge frontend technologies. 
+Transform your imagination into reality using cutting-edge frontend technologies. 
 
-- Craft powerful, scalable, and secure server-side functionalities harnessing the latest technologies available in the market.
+Craft powerful, scalable, and secure server-side functionalities harnessing the latest technologies available in the market.
 
-- Elevate your site's visibility on the internet by deploying it on platforms like Vercel or AWS, and establish its identity with your own custom domain.
+Elevate your site's visibility on the internet by deploying it on platforms like Vercel or AWS, and establish its identity with your own custom domain.
 
 ## Contact ✉️
 
