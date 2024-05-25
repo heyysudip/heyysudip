@@ -1,7 +1,5 @@
 # Hey, I'm Sudip 👋🏻
 
-## Who am I? 😄
-
 I'm a developer based in India, who is passionate about crafting beautiful and smooth experiences as well as robust functionalities for users across the globe. 
 
 ## What I do 😼
