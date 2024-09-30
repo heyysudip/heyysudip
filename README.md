@@ -1,3 +1,3 @@
 # Hey, I'm Sudip 👋🏻
 
-For any queries - [@heyysudip](https://x.com/heyysudip) 
+For any queries - [sudipbiswas2142@gmail.com](mailto:sudipbiswas2142@gmail.com) 
